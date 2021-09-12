@@ -6,22 +6,19 @@
 ## Results:
 
 So we designed a very sleek looking website, and the added many filters, including the Date, City, State, Country, UFO shape, and DUration of the encounter. First you can enter whatever critira you would like into any of the search bars. I decided to demostrate by searching for "ca" the acronym for California.
-"C:\Users\Madi\Documents\UFOs\static\images\search1.png"
 
+![search1](https://user-images.githubusercontent.com/84158312/133002087-811462c7-d4f4-4bf0-bd09-ec76f8e508ba.png)
 
+Then I decided that I had too many results came up, so I added another filter, to only look at incidences that had lights as the shape of the UFO seen.
 
+![search](https://user-images.githubusercontent.com/84158312/133002136-77ad3c55-541b-4e37-8e22-56814a3fe980.png)
+ 
+ There! Only eleven results. So if anyone had seen a specific shape, such as a saucer, and wanted to see if there were other sightings within there state, they can do that.
 
-## Results:
-
-There is a description of how to perform a search, with images.
-
-
-
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
-
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development 
-
+## Summary: 
+  For the future, two things I would add to this website would be: 
+    1.videos or images that were taken of the incidents 
+    2.a way for visitors to the website to upload their own incidents to add to the database and be searchable.
 
 
 
